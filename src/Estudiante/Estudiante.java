@@ -22,7 +22,7 @@ public class Estudiante {
 
     // 3. Constructor con todos los parámetros usando this()
     public Estudiante(String nombre, int edad, String curso) {
-        // Llama al constructor número 2 (el que recibe nombre y edad)
+        // Llama al constructor número 2 (recibe nombre y edad)
         this(nombre, edad);
 
         // Ahora solo asignamos la propiedad que faltaba
