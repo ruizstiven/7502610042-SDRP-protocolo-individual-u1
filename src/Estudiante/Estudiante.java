@@ -1,7 +1,7 @@
 package Estudiante;
 
 public class Estudiante {
-    // Propiedades o atributos
+    // Atributos
     private String nombre;
     private int edad;
     private String curso;
