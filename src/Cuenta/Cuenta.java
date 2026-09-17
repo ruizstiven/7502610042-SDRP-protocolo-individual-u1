@@ -10,7 +10,7 @@ public static void main(String[] args) {
     // Probando el constructor 3 (Tres parámetros)
     CuentaBancaria cuenta3 = new CuentaBancaria("123456", 1500.50, "Ahorros");
 
-    // Mostramos los resultados en consola
+    // Mostramos resultados en consola
     cuenta1.mostrarInfo();
     cuenta2.mostrarInfo();
     cuenta3.mostrarInfo();

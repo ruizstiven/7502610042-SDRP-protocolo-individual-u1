@@ -8,7 +8,7 @@ public class CuentaBancaria {
 
     // 1. Constructor por defecto
     public CuentaBancaria() {
-        this.numeroCuenta = "000000";
+        this.numeroCuenta = "0000";
         this.saldo = 0.0;
         this.tipoCuenta = "Ahorros"; // Tipo por defecto
     }
