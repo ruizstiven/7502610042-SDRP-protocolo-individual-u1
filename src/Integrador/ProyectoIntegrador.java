@@ -12,7 +12,7 @@ public class ProyectoIntegrador {
         // Scanner para leer los datos que el usuario escriba en la consola
         Scanner teclado = new Scanner(System.in);
 
-        System.out.println("====== BIENVENIDO AL PROYECTO INTEGRADOR ======\n");
+        System.out.println("===== BIENVENIDO AL PROYECTO INTEGRADOR =====\n");
 
 
         // 1. INGRESO DE DATOS POR CONSOLA (Para el Libro)
