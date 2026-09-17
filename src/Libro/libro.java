@@ -6,14 +6,14 @@ public class libro {
     private String autor;
     private int numeroPaginas;
 
-    // 1. Constructor por defecto (valores predeterminados)
+    // 1. Constructor por defecto (con valores predeterminados)
     public libro() {
         this.titulo = "Sin título";
         this.autor = "Anónimo";
         this.numeroPaginas = 0;
     }
 
-    // 2. Constructor parametrizado (valores específicos)
+    // 2. Constructor parametrizado (con valores específicos)
     public libro(String titulo, String autor, int numeroPaginas) {
         this.titulo = titulo;
         this.autor = autor;
